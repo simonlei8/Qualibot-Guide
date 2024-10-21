@@ -15,7 +15,7 @@ This field consists of a brief description of the GPT. Since the main purpose of
 
 ### Instructions
 This is the most crucial field of the GPT, and it consists of detailed instructions which guide the GPT in performing its analysis. 
-![Qualibot Description](https://github.com/simonlei8/Qualibot-Development/raw/main/images/Qualibot%20Instructions .png)
+![Qualibot Description](https://github.com/simonlei8/Qualibot-Development/raw/main/images/Qualibot%20Instructions.png)
 ### Conversation starters
 
 ### Knowledge
