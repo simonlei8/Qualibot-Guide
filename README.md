@@ -32,7 +32,9 @@ We have loaded the files containing the de-identified interview data as well as 
 
 ### Capabilities
 This field consists of the capabilities the GPT is expected to posssess. 
- ![Qualibot Capabilities](https://github.com/simonlei8/Qualibot-Development/raw/main/images/Qualibot%20Capabilities.png)
+ ![Qualibot Capabilities](https://github.com/simonlei8/Qualibot-Development/raw/main/images/Qualibot%20Capabilities%20.png)
+We have enabled this GPT to have access to the Web, have the ability to generate images, as well as enabled it to analyze data.
+
 ## Implementation
 
 
