@@ -16,7 +16,11 @@ This field consists of a brief description of the GPT. Since the main purpose of
 ### Instructions
 This is the most crucial field of the GPT, and it consists of detailed instructions which guide the GPT in performing its analysis. 
 ![Qualibot Instructions](https://github.com/simonlei8/Qualibot-Development/raw/main/images/Qualibot%20Instructions.png)
+
+Expanded view
+![expandedview](https://github.com/simonlei8/Qualibot-Development/raw/main/images/expandedview.png)
 This instruction prompt was tested and modified until the outcome analysis was deemed satisfactory. 
+
 
 Here is the full instruction prompt: 
 ``
@@ -31,7 +35,7 @@ This field consists of conversation starters with the aim to help improve user i
 ### Knowledge
 This field consists of files loaded into the GPT, which is analyzed by the GPT and referenced in the output.
 ![Qualibot Knowlege](https://github.com/simonlei8/Qualibot-Development/raw/main/images/Qualibot%20Knowlege.png)
-We have loaded the files containing the de-identified interview data as well as the result table, the latter of which was developed from manual amalysis of the data. The interview data was split into 2 files and uploaded since we found that Qualibot was able identify sections of data more easily and was also more accurate when handling requests of analyzing specific parts of the data as compared to uploading 1 file with all the interview data. 
+We have loaded the files containing the de-identified interview data as well as the result table, the latter of which was developed from manual analysis of the data. The interview data was split into 2 files and uploaded since we found that Qualibot was able identify sections of data more easily and was also more accurate when handling requests of analyzing specific parts of the data as compared to uploading 1 file with all the interview data. 
 
 ### Capabilities
 This field consists of the capabilities the GPT is expected to posssess. 
